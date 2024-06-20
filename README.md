@@ -7,7 +7,7 @@ Prerequisites
 
 Python 3.x installed on your machine.
 
-Selenium WebDriver installed (pip install selenium).
+Web Automation Framework enabled (installed via pip).
 
 ChromeDriver installed and added to the system PATH.
 
